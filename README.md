@@ -37,7 +37,7 @@ A. Program
 	```pyhton
 	print(s.items())
 	```
-7. Untuk menghapus salah satu kontak, gunakan statement `del variable_dictionary[keys];`.
+7. Untuk menghapus salah satu kontak
 	```python
 	del s['Dina'];
 	```
